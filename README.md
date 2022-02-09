@@ -19,6 +19,7 @@ r<h1 align="center">Hi 👋, I'm Michael</h1>
 <p align="center">
 <a href="https://linkedin.com/in/https://linkedin.com/in/michael-demewoz-331994191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/michael-demewoz-331994191" height="30" width="40" /></a>
 </p>
+</h3>
 
 <p align="center">
   <a  href="https://t.me/Miky_mac" target="_blank">
