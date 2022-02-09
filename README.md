@@ -41,7 +41,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikydemewoz&show_icons=true&locale=en&theme=radical&layout=compact" alt="mikydemewoz" height="200" /></p>
-<br><br><br><br><br>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mikydemewoz&show_icons=true&locale=en&theme=radical" alt="mikydemewoz" height="200"/></p>
 <br><br><br>
