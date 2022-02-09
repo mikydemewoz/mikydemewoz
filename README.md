@@ -38,4 +38,4 @@ r<h1 align="center">Hi 👋, I'm Michael</h1>
 <br><br><br><br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikydemewoz&show_icons=true&locale=en&theme=radical" alt="mikydemewoz" height="175"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikydemewoz&show_icons=true&locale=en&theme=radical" alt="mikydemewoz" height="175"/></p>
