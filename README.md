@@ -1,6 +1,6 @@
 r<h1 align="center">Hi 👋, I'm Michael</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=A+passionate+Fullstack+developer;A+passionate+Backend+developer;A+passionate+FrontEnd+developer;A+passionate+Flutter+developer;Data+person+and+who+likes+to+analyze)](https://git.io/typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=A+passionate+Fullstack+developer;A+passionate+Backend+developer;A+passionate+FrontEnd+developer;A+passionate+Flutter+developer;Data+person+and+who+likes+to+analyze"></a>
 </p>
 
 - 🔭 I’m currently working on **A Freelance market place for Ethiopia**
