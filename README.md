@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N_4DwgJiKe6pQmWImehZdr494505v2Mt/view](https://drive.google.com/file/d/1N_4DwgJiKe6pQmWImehZdr494505v2Mt/view)
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
