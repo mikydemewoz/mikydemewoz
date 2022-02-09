@@ -37,4 +37,4 @@ r<h1 align="center">Hi 👋, I'm Michael</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikydemewoz&show_icons=true&locale=en&theme=radical&layout=compact" alt="mikydemewoz" height="250" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikydemewoz&show_icons=true&locale=en&theme=radical" alt="mikydemewoz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikydemewoz&show_icons=true&locale=en&theme=radical" alt="mikydemewoz" height="250"/></p>
