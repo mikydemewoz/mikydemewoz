@@ -25,7 +25,7 @@
 </p>
 </h3>
 
-<p align="center">
+<p align="left">
   <a  href="https://t.me/Miky_mac" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
